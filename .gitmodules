@@ -1,0 +1,4 @@
+[submodule "Stock_final"]
+	path = Stock_final
+	url = https://github.com/collinsfoam-a11y/Stock_final.git
+	branch = main
